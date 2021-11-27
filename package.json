@@ -1,0 +1,19 @@
+{
+  "name": "js-soap-call",
+  "version": "1.0.0",
+  "description": "PERFORM SOAP REQUESTS WITH NODE.JS",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "soap",
+    "nodejs"
+  ],
+  "author": "Neo Mashego",
+  "license": "ISC",
+  "dependencies": {
+    "soap": "^0.43.0"
+  }
+}
